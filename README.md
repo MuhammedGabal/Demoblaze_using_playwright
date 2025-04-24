@@ -42,8 +42,9 @@ cd Demoblaze_using_playwright
 
 -mvn test
 
-**📦 Deliverables
-**
+---
+📦 Deliverables
+
 ✅ Automated test scenarios using Playwright with Java
 
 ✅ Implementation of the Page Object Model (POM) design pattern
