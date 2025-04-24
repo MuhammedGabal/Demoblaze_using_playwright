@@ -1,23 +1,30 @@
-# Demoblaze Test Automation using playwright
+# Demoblaze Test Automation (Java + Playwright)
 
-This is a simple Playwright test automation project for [Demoblaze](https://www.demoblaze.com/) using the Page Object Model (POM) design pattern.
+This is a simple test automation project using **Playwright with Java** for automating key scenarios on [Demoblaze](https://www.demoblaze.com/). The project follows the **Page Object Model (POM)** design pattern.
+
 
 ## ✅ Test Scenarios
 
-1. User can register with valid data (every time need to use fresh date to can procees with success result)
-2. User can log in with valid credentials  
-3. User can log out  
-4. User can place an order for "Apple monitor 24"
+1. User registration with valid data  (every time need to run this scenario, you must enter fresh data not used befor)
+2. Login with valid credentials  
+3. Logout functionality  
+4. Create an order for "Apple monitor 24"
 
 ## 🛠 Tech Stack
 
 - Playwright  
-- Node.js or Java  
+- Java  
 - Page Object Model (POM)
 
 ## 🚀 How to Run
 
+**Clone the repository:**
 ```bash
-npm install
-npx playwright install
-npx playwright test
+   git clone https://github.com/yourusername/demoblaze-playwright-automation.git
+   cd demoblaze-playwright-automation
+
+- npm install
+-npx playwright install
+
+
+
