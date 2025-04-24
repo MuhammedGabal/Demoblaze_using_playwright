@@ -41,6 +41,7 @@ cd Demoblaze_using_playwright
 ### 4. Run Tests
 
 -mvn test
+- for Registration -> every time need to test this function need to enter uniq data not used befor to get it pass. 
 
 ---
 
