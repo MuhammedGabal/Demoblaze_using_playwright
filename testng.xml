@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Test Automation Suite">
+    <test name="Test Automation">
+        <classes>
+            <!-- Specify each test class -->
+            <class name="Mainfunctions.test_Registration"/>
+            <class name="Mainfunctions.Login"/>
+            <class name="Mainfunctions.test_Order_Item"/>
+            <class name="Mainfunctions.Logout"/>
+        </classes>
+    </test>
+</suite>
