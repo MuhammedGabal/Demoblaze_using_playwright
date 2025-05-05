@@ -14,6 +14,6 @@ public class test_Registration extends Base_test {
         page.fill(username_Registration, "TGabal");
         page.fill(password_Registration, "1234567");
         page.click(register_Button);
-        //registration.register_Function("TGabal", "1234567");
+        registration.register_Function("TGabal", "1234567");
     }
 }

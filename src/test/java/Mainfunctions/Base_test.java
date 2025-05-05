@@ -15,7 +15,6 @@ public class Base_test {
     protected static Playwright playwright;
     protected static Page page;
     protected static Browser browser;
-    protected static BrowserContext context;
     protected Login_Page login;
     protected static Logout_Page logout_page;
     protected Order_Item order_item;
